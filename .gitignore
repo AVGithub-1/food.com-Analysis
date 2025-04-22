@@ -1,5 +1,7 @@
 .env
 
 csv_files/
+!csv_files/.gitkeep
 
 database/
+!database/.gitkeep
